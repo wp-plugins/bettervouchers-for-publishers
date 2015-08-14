@@ -12,7 +12,7 @@ BetterVouchers for Publishers plugin enables you to insert relevant Offers and V
 == Description ==
 What does BetterVouchers for Publishers do?
 
-* Displays valid offers next to your evergreen content. You can chose to only do this for all your posts or just for the ones older than X weeks/months.
+* Displays valid offers next to your evergreen content. 
 * Generates extra revenue. You get a healthy revenue share from each transaction generated.
 * Helps your readers get a good deal and in the process get them to associate your blog with the good feeling of saving.
 * Remains invisible if no deals are valid.
@@ -33,6 +33,8 @@ There are no FAQ just yet.
 1. http://bettervouchers.com/wp/screenshot.png
 
 == Changelog ==
+= 2.0.0 =
+*   Automated voucher inserting service
 = 1.0.0 =
 *   First release
 
